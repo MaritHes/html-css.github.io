@@ -13,4 +13,6 @@ function validate(){
         alert("Name must be filled out");
         return false;
         }
+
+    hi
 }
