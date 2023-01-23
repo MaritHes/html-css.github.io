@@ -9,10 +9,10 @@ var emai = email.getElementById("email").value;
 
 function validate(){
     let x = document.forms["myForm"]["fname"].value;
-  if (x == "") {
-    alert("Name must be filled out");
-    return false;
-  }
+        if (x == "") {
+        alert("Name must be filled out");
+        return false;
+        }
     /*if(username.tooLong() || username.tooShort()){
         window.location = "sell.html";
         
