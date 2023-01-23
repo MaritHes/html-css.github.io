@@ -13,14 +13,4 @@ function validate(){
         alert("Name must be filled out");
         return false;
         }
-    /*if(username.tooLong() || username.tooShort()){
-        window.location = "sell.html";
-        
-    }
-    else{
-
-    }*/
-
-    alert("Welcome");
-        window.location = "index.html";
 }
